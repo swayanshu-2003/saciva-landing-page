@@ -92,13 +92,13 @@ const Page: React.FC = () => {
                 textAlign: "center",
               }}
             >
-              For Students By Students
+             Saciva: strike success
             </p>
             <DynamicCounter userCount={userCount} />
             <p
               className="pb-12"
               style={{
-                fontSize: "36px",
+                fontSize: "30px",
                 fontWeight: 400,
                 lineHeight: "43.2px",
                 textAlign: "center",
@@ -151,7 +151,7 @@ const Page: React.FC = () => {
           <p
             className="mb-0"
             style={{
-              fontSize: "36px",
+              fontSize: "30px",
               fontWeight: 400,
               lineHeight: "43.2px",
               textAlign: "center",
@@ -213,7 +213,7 @@ const Page: React.FC = () => {
               Join the Network for Free
             </button>
           </div>
-          <div className="w-full p-3">
+          <div className="w-full p-3 text-black">
             <h1 className="text-4xl font-bold text-[#0C41CA] text-center my-2">
               Productivity, made a play! {" "}
             </h1>
