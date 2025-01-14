@@ -215,12 +215,12 @@ const Page: React.FC = () => {
           </div>
           <div className="w-full p-3">
             <h1 className="text-4xl font-bold text-[#0C41CA] text-center my-2">
-              Productivity, made a play! 2xl bold center aligned{" "}
+              Productivity, made a play! {" "}
             </h1>
             <p className="text-lg font-semibold text-[#8A59AE]">
               We&apos;ve done the hard work for you so that you can focus on the
               most important things you crossed the oceans for, “Academics and
-              Career” Lg bold
+              Career”
             </p>
             <ul className="list-disc max-w-full mx-3">
               <li className="my-2">
